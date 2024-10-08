@@ -1,5 +1,8 @@
 # Wage Wizard Mobile Application
 
+![Wage Wizard Logo](./Wage%20Wizard%20Logo.png)
+
+
 ## Overview
 Wage Wizard is a mobile application developed to assist caregivers, particularly those in industries where wage theft is prevalent, in tracking their working hours and wages. The app helps users ensure they are paid fairly by automating work hour logging, providing wage payout estimates, and offering valuable resources to protect against wage theft.
 
@@ -21,7 +24,7 @@ The application was developed as a senior design project by Brett Rimmer, Kyle M
 4. **User-friendly Design**:
    - Designed to be intuitive and accessible for users of varying tech-savviness.
    - Simple setup and easy-to-follow instructions to accommodate users who may not be familiar with mobile apps.
-
+![Wage Wizard Screens](./Wage%20Wizard%20Screens.png)
 
 
 ## Technologies Used
