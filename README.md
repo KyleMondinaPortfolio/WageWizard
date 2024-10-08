@@ -28,7 +28,7 @@ The application was developed as a senior design project by Brett Rimmer, Kyle M
    - Simple setup and easy-to-follow instructions to accommodate users who may not be familiar with mobile apps.
      
 <p align="center">
-![Wage Wizard Screens](./Wage%20Wizard%20Screens.png)
+    <img src="../Wage%20Wizard%20Screens.png" alt="Wage Wizard Logo">
 </p>
 
 
