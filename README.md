@@ -1,4 +1,4 @@
-# Wage Wizard Mobile Application
+<h1 align="center">Wage Wizard Mobile Application</h1>
 
 <p align="center">
   <img src="./Wage%20Wizard%20Logo.png" alt="Wage Wizard Logo">
@@ -26,8 +26,10 @@ The application was developed as a senior design project by Brett Rimmer, Kyle M
 4. **User-friendly Design**:
    - Designed to be intuitive and accessible for users of varying tech-savviness.
    - Simple setup and easy-to-follow instructions to accommodate users who may not be familiar with mobile apps.
-   - 
+     
+<p align="center">
 ![Wage Wizard Screens](./Wage%20Wizard%20Screens.png)
+</p>
 
 
 ## Technologies Used
